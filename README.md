@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RonanRafferty
 - 👀 I’m interested in learning software development practices.
-- 🌱 I’m currently learning Python 3.
-- 💞️ I don't feel I have enough expereince to know about collaborating.
+- 🌱 I’m currently learning Python 3 + C#.
 - 📫 How to reach me ronanrafferty98@gmail.com
 
 <!---
